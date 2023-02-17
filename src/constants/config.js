@@ -1,0 +1,1 @@
+export const BASE_URL = "https://ill-ruby-crayfish-tux.cyclic.app"
