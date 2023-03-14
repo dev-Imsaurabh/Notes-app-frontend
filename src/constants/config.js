@@ -1,1 +1,1 @@
-export const BASE_URL = "https://ill-ruby-crayfish-tux.cyclic.app"
+export const BASE_URL = "Your_backend_url"
